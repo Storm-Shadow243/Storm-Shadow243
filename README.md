@@ -1,5 +1,7 @@
-👋 Hey Software Devs and IT Engineers, I’m Jean Rostand AKA @Storm-Shadow243
+👋 Hey Software Devs and IT Engineers, I’m Jean Rostand AKA @Storm-Shadow243.
+
 I’m interested in remote software development.
+
 Always eager to learn, take on more responsibility and grow professionally.
 My aim is to always produce appreciated content that meets current standards.
 
